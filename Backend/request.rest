@@ -1,0 +1,5 @@
+post http://localhost:4500/authenticate Content-Type: application/json
+
+{
+    "username":"mostafa",
+}
